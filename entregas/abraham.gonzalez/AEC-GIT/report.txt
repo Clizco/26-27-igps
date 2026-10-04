@@ -24,3 +24,13 @@ Captura del commit del informe: capturas/08-commit-informe.png
 Conclusión
 Con esta actividad practiqué el flujo básico de Git: hacer fork, clonar,
 crear ramas, hacer commits por partes y subir los cambios a mi repositorio.
+
+Capturas del commit final y del push de la rama: capturas/09-commit-final.png, capturas/10-push-rama.png
+
+Paso 5 - Merge
+Volví a main, combiné la rama docs/modificaciones con git merge y subí main a mi fork.
+Capturas: capturas/11-commit4-push.png, capturas/12-merge-push-main.png
+
+Paso 6 - Pull Request
+Creé la Pull Request desde mi rama docs/modificaciones hacia main del repositorio original.
+Captura: capturas/13-pull-request.png
